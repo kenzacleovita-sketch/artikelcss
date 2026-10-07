@@ -4,7 +4,7 @@ body {
     padding: 0;
     font-family: Arial, Helvetica, sans-serif;
     background-color: #eaf7f0;
-    color: #333;
+    color: #800000;
     line-height: 1.8;
 }
 
@@ -24,7 +24,7 @@ body {
     margin-top: 0;
     margin-bottom: 25px;
     text-align: center;
-    color: #16845b;
+    color: #f00;
     font-size: 32px;
 }
 
