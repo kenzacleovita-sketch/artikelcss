@@ -3,7 +3,7 @@ body {
     margin: 0;
     padding: 0;
     font-family: Arial, Helvetica, sans-serif;
-    background-color: #eaf7f0;
+    background-color: #red;
     color: #800000;
     line-height: 1.8;
 }
@@ -37,7 +37,7 @@ body {
 
 /* Paragraf pertama */
 .article p:first-of-type {
-    border-left: 5px solid #4caf80;
+    border-left: 5px solid #800000;
     padding-left: 15px;
 }
 
@@ -70,4 +70,3 @@ body {
         float: left;
         margin-right: 10px;
     }
-  }
